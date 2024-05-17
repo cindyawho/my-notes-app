@@ -1,0 +1,19 @@
+{
+  "notes": [
+    {
+      "id": "1",
+      "body": "Today's Agenda Example\n\n- Walk Dog\n- Feed fish\n- Play basketball\n- Eat a salad\n- testing",
+      "updated": "2024-05-17T21:56:33.422Z"
+    },
+    {
+      "id": "02b3",
+      "body": "Welcome to your Notes app!\n\nThe first line of your Note always appears as the title in the main page.\nThe rest of your text appears below that title. \nYou can delete this note in the top right corner. \nEnjoy!",
+      "updated": "2024-05-17T22:00:41.237Z"
+    },
+    {
+      "id": "0c9f",
+      "body": "Testing a new note\nTesting a new note",
+      "updated": "2024-05-17T22:05:22.020Z"
+    }
+  ]
+}
